@@ -28,5 +28,4 @@ Tasks:
   4. Agricola
       worker placement
 
-This is a pure exercise for myself.
-Publish under Mozilla Public License 2.0
+This is a pure exercise for myself
